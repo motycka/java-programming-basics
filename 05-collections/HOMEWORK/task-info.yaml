@@ -1,0 +1,12 @@
+type: edu
+files:
+  - name: src/HomeworkTask.java
+    visible: true
+    placeholders:
+      - offset: 163
+        length: 856
+        placeholder_text: // TODO
+  - name: test/HomeworkTaskTests.java
+    visible: false
+  - name: src/Data.java
+    visible: false

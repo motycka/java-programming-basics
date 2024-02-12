@@ -1,0 +1,10 @@
+type: edu
+files:
+  - name: src/com/harbourspace/model/MeteoStation.java
+    visible: true
+    placeholders:
+      - offset: 33
+        length: 67
+        placeholder_text: /* TODO */
+  - name: test/com/harbourspace/model/MeteoStationTest.java
+    visible: false

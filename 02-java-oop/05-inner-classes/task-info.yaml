@@ -1,0 +1,18 @@
+type: edu
+files:
+  - name: src/com/harbourspace/Main.java
+    visible: true
+  - name: src/com/harbourspace/model/MeteoStation.java
+    visible: true
+    placeholders:
+      - offset: 129
+        length: 65
+        placeholder_text: // implement versionInfo field
+      - offset: 697
+        length: 71
+        placeholder_text: // implemenet VersionInfo getter
+      - offset: 774
+        length: 251
+        placeholder_text: // implement VersionInfo class
+  - name: test/MeteoStationTest.java
+    visible: false

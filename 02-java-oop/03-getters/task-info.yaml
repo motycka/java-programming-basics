@@ -1,0 +1,18 @@
+type: edu
+files:
+  - name: src/com/harbourspace/Main.java
+    visible: true
+  - name: src/com/harbourspace/model/MeteoStation.java
+    visible: true
+    placeholders:
+      - offset: 66
+        length: 156
+        placeholder_text: /* TODO */
+        dependency:
+          lesson: lesson-02
+          task: 02-class-instance
+          file: src/com/harbourspace/model/UniversityCourse.java
+          placeholder: 1
+          is_visible: false
+  - name: test/MeteoStatinTest.java
+    visible: false

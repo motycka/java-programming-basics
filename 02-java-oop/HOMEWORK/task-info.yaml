@@ -1,0 +1,39 @@
+type: edu
+files:
+  - name: src/com/harbourspace/Main.java
+    visible: true
+  - name: src/com/harbourspace/model/MeteoStation.java
+    visible: true
+    placeholders:
+      - offset: 62
+        length: 1285
+        placeholder_text: // class body
+  - name: test/MeteoStationTest.java
+    visible: false
+  - name: src/com/harbourspace/model/Sensor.java
+    visible: true
+    placeholders:
+      - offset: 56
+        length: 56
+        placeholder_text: // properties
+      - offset: 122
+        length: 1793
+        placeholder_text: // record body
+  - name: src/com/harbourspace/model/SensorType.java
+    visible: true
+    placeholders:
+      - offset: 62
+        length: 349
+        placeholder_text: // enum body
+  - name: src/com/harbourspace/model/UnitType.java
+    visible: true
+    placeholders:
+      - offset: 60
+        length: 243
+        placeholder_text: // enum body
+  - name: test/UnitTypeTest.java
+    visible: false
+  - name: src/com/harbourspace/model/Error.java
+    visible: true
+  - name: test/SensorTest.java
+    visible: false

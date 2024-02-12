@@ -1,0 +1,8 @@
+Monday: 8.686363
+Tuesday: 8.708695
+Wednesday: 7.568182
+Thursday: 8.878261
+Friday: 7.973913
+Saturday: 9.217391
+Sunday: 9.582608
+Monday: 8.9625

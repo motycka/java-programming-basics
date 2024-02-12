@@ -1,0 +1,12 @@
+type: output
+files:
+  - name: test/output.txt
+    visible: false
+  - name: test/input.txt
+    visible: false
+  - name: src/WindDataTask.java
+    visible: true
+    placeholders:
+      - offset: 133
+        length: 81
+        placeholder_text: /* TODO */

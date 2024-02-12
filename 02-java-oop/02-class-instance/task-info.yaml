@@ -1,0 +1,22 @@
+type: output
+files:
+  - name: src/com/harbourspace/Main.java
+    visible: true
+    placeholders:
+      - offset: 146
+        length: 47
+        placeholder_text: // create class instance
+      - offset: 221
+        length: 17
+        placeholder_text: ???
+  - name: src/com/harbourspace/model/MeteoStation.java
+    visible: true
+    placeholders:
+      - offset: 33
+        length: 6
+        placeholder_text: ???
+      - offset: 65
+        length: 6
+        placeholder_text: ???
+  - name: test/MeteoStationTest.java
+    visible: false

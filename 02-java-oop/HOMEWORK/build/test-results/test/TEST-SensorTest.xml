@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SensorTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2024-02-12T09:37:30" hostname="Monika-MacBook-Pro.local" time="0.024">
+  <properties/>
+  <testcase name="should compare two temperature sensors with different unit" classname="SensorTest" time="0.0"/>
+  <testcase name="should convert Fahrenheit to Fahrenheit - returns the same object" classname="SensorTest" time="0.008"/>
+  <testcase name="should not allow to instantiate precipitation with C" classname="SensorTest" time="0.001"/>
+  <testcase name="should not allow to instantiate precipitation with F" classname="SensorTest" time="0.001"/>
+  <testcase name="should not allow to instantiate precipitation with %" classname="SensorTest" time="0.0"/>
+  <testcase name="should convert Fahrenheit to Celsius" classname="SensorTest" time="0.001"/>
+  <testcase name="should compare two temperature sensors with same unit" classname="SensorTest" time="0.0"/>
+  <testcase name="should have isFarhenheit method" classname="SensorTest" time="0.0"/>
+  <testcase name="should convert Celsius to Fahrenheit" classname="SensorTest" time="0.0"/>
+  <testcase name="should convert Celsius to Celsius - returns the same object" classname="SensorTest" time="0.0"/>
+  <testcase name="should not allow to instantiate humidity with C" classname="SensorTest" time="0.001"/>
+  <testcase name="should not allow to instantiate humidity F" classname="SensorTest" time="0.001"/>
+  <testcase name="should not allow to instantiate humidity with mm" classname="SensorTest" time="0.001"/>
+  <testcase name="should not allow to instantiate temperature with %" classname="SensorTest" time="0.0"/>
+  <testcase name="should not allow to instantiate temperature with mm" classname="SensorTest" time="0.0"/>
+  <testcase name="should have isCelsius method" classname="SensorTest" time="0.0"/>
+  <testcase name="should not allow to convert humidity to temperature" classname="SensorTest" time="0.0"/>
+  <testcase name="should not allow to convert precipitation to temperature" classname="SensorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

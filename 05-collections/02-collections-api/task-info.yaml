@@ -1,0 +1,8 @@
+type: edu
+files:
+  - name: src/CollectionsTask.java
+    visible: true
+  - name: test/CollectionsTaskTest.java
+    visible: false
+  - name: src/Data.java
+    visible: false

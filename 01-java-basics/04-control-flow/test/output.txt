@@ -1,0 +1,11 @@
+Monday: it's a cold day!
+Tuesday: it's a cold day!
+Wednesday: it's a nice day!
+Thursday: it's a cold day!
+Friday: it's a cold day!
+Saturday: it's a freezing cold day!
+Sunday: it's a nice day!
+Monday: it's a warm day!
+Tuesday: it's a nice day!
+Wednesday: it's a warm day!
+Thursday: it's a hot day!

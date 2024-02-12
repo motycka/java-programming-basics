@@ -1,0 +1,31 @@
+type: edu
+files:
+  - name: src/com/harbourspace/Main.java
+    visible: true
+    placeholders:
+      - offset: 386
+        length: 64
+        placeholder_text: // initialize MeteoStation using primary constructor
+      - offset: 460
+        length: 53
+        placeholder_text: // initialize MeteoStation using secondary constructor
+      - offset: 522
+        length: 37
+        placeholder_text: // set position
+  - name: src/com/harbourspace/model/MeteoStation.java
+    visible: true
+    placeholders:
+      - offset: 97
+        length: 26
+        placeholder_text: // add position
+      - offset: 129
+        length: 146
+        placeholder_text: // add primary constructor
+      - offset: 377
+        length: 21
+        placeholder_text: // add field initialization
+      - offset: 410
+        length: 210
+        placeholder_text: // add getters and setters
+  - name: test/MeteoStationTest.java
+    visible: false

@@ -1,0 +1,14 @@
+type: edu
+files:
+  - name: src/com/harbourspace/Main.java
+    visible: true
+  - name: src/com/harbourspace/model/Sensor.java
+    visible: true
+    placeholders:
+      - offset: 33
+        length: 305
+        placeholder_text: /* TODO */
+  - name: test/SensorTest.java
+    visible: false
+  - name: src/com/harbourspace/model/Error.java
+    visible: true

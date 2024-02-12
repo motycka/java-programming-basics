@@ -1,0 +1,12 @@
+type: edu
+files:
+  - name: src/Main.java
+    visible: true
+  - name: test/AreaCalculatorTest.java
+    visible: false
+  - name: src/AreaCalculator.java
+    visible: true
+    placeholders:
+      - offset: 35
+        length: 654
+        placeholder_text: // your code
