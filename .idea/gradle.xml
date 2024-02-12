@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/01-java-basics/02-data-types" />
+            <option value="$PROJECT_DIR$/01-java-basics/04-control-flow" />
+            <option value="$PROJECT_DIR$/01-java-basics/05-bitwise-operations" />
+            <option value="$PROJECT_DIR$/01-java-basics/06-coding-practice" />
+            <option value="$PROJECT_DIR$/01-java-basics/07-coding-practice" />
+            <option value="$PROJECT_DIR$/01-java-basics/Hello World" />
+            <option value="$PROJECT_DIR$/02-java-oop/01-class" />
+            <option value="$PROJECT_DIR$/02-java-oop/02-class-instance" />
+            <option value="$PROJECT_DIR$/02-java-oop/03-getters" />
+            <option value="$PROJECT_DIR$/02-java-oop/04-setters" />
+            <option value="$PROJECT_DIR$/02-java-oop/05-inner-classes" />
+            <option value="$PROJECT_DIR$/02-java-oop/06-record" />
+            <option value="$PROJECT_DIR$/02-java-oop/07-methods" />
+            <option value="$PROJECT_DIR$/02-java-oop/08-enums" />
+            <option value="$PROJECT_DIR$/02-java-oop/HOMEWORK" />
+            <option value="$PROJECT_DIR$/03-unit-testing/01-unit-testing" />
+            <option value="$PROJECT_DIR$/04-polymorphism-inheritance-abstraction/01-handling-exceptions" />
+            <option value="$PROJECT_DIR$/04-polymorphism-inheritance-abstraction/02-throwing-exceptions" />
+            <option value="$PROJECT_DIR$/04-polymorphism-inheritance-abstraction/03-polymorphism" />
+            <option value="$PROJECT_DIR$/04-polymorphism-inheritance-abstraction/04-encapsulation" />
+            <option value="$PROJECT_DIR$/04-polymorphism-inheritance-abstraction/05-inheritance" />
+            <option value="$PROJECT_DIR$/04-polymorphism-inheritance-abstraction/06-abstraction" />
+            <option value="$PROJECT_DIR$/05-collections/01-collections" />
+            <option value="$PROJECT_DIR$/05-collections/02-collections-api" />
+            <option value="$PROJECT_DIR$/05-collections/HOMEWORK" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

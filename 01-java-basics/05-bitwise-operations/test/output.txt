@@ -1,0 +1,2 @@
+Wind speed: 5
+Wind direction: 3

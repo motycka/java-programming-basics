@@ -1,0 +1,58 @@
+type: edu
+files:
+  - name: src/Main.java
+    visible: true
+  - name: test/ShapeTest.java
+    visible: false
+  - name: src/Triangle.java
+    visible: true
+    placeholders:
+      - offset: 22
+        length: 421
+        placeholder_text: "{ }"
+  - name: src/Shape2D.java
+    visible: true
+  - name: src/Circle.java
+    visible: true
+    placeholders:
+      - offset: 20
+        length: 281
+        placeholder_text: "{ }"
+  - name: src/Square.java
+    visible: true
+    placeholders:
+      - offset: 20
+        length: 162
+        placeholder_text: "{ }"
+        dependency:
+          lesson: 04-polymorphism-inheritance-abstraction
+          task: 05-inheritance
+          file: src/Square.java
+          placeholder: 1
+          is_visible: true
+  - name: src/Rectangle.java
+    visible: true
+    placeholders:
+      - offset: 23
+        length: 462
+        placeholder_text: "{ }"
+        dependency:
+          lesson: 04-polymorphism-inheritance-abstraction
+          task: 05-inheritance
+          file: src/Rectangle.java
+          placeholder: 1
+          is_visible: true
+  - name: src/Cuboid.java
+    visible: true
+    placeholders:
+      - offset: 20
+        length: 457
+        placeholder_text: "{ }"
+        dependency:
+          lesson: 04-polymorphism-inheritance-abstraction
+          task: 05-inheritance
+          file: src/Cuboid.java
+          placeholder: 1
+          is_visible: true
+  - name: src/Shape3D.java
+    visible: true

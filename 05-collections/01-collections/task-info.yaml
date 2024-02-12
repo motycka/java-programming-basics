@@ -1,0 +1,29 @@
+type: edu
+files:
+  - name: src/CollectionsTask.java
+    visible: true
+    placeholders:
+      - offset: 57
+        length: 157
+        placeholder_text: |-
+          // rewrite this as List<Double>
+          public static Double[] temperatures = {
+                      19.2, 20.1, 22.5, 25.4, 28.2,
+                      26.1, 24.0, 21.9, 25.0, 27.2
+              };
+      - offset: 220
+        length: 226
+        placeholder_text: |-
+          // rewrite this as Set<String>
+          public static String[] dates1 = {
+                      "2024-02-19", "2024-02-20", "2024-02-21", "2024-02-22", "2024-02-23",
+                      "2024-02-24", "2024-02-25", "2024-02-26", "2024-02-27", "2024-02-28"
+              };
+      - offset: 452
+        length: 274
+        placeholder_text: // implement getTemperatures
+      - offset: 732
+        length: 422
+        placeholder_text: // implement getTemperaturesBetween
+  - name: test/CollectionsTaskTest.java
+    visible: false

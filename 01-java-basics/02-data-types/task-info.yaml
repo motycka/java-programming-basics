@@ -1,0 +1,45 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 72
+        length: 6
+        placeholder_text: <type>
+      - offset: 120
+        length: 5
+        placeholder_text: <type>
+      - offset: 155
+        length: 3
+        placeholder_text: <type>
+      - offset: 180
+        length: 6
+        placeholder_text: <type>
+      - offset: 215
+        length: 6
+        placeholder_text: <type>
+      - offset: 251
+        length: 7
+        placeholder_text: <type>
+      - offset: 283
+        length: 3
+        placeholder_text: <type>
+      - offset: 316
+        length: 5
+        placeholder_text: <type>
+      - offset: 349
+        length: 5
+        placeholder_text: <type>
+      - offset: 379
+        length: 5
+        placeholder_text: <type>
+      - offset: 410
+        length: 4
+        placeholder_text: <type>
+      - offset: 440
+        length: 3
+        placeholder_text: <type>
+  - name: test/output.txt
+    visible: false
+  - name: test/input.txt
+    visible: false

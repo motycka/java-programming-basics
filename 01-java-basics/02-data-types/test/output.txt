@@ -1,0 +1,12 @@
+Station name: Meteo Station XYZ
+Firmware version: 204
+ID: 12345678
+Latitude: 49.123456
+Longitude: 16.123456
+Downlink: true
+Battery voltage: 3500
+Temperature: 24.5
+Humidity: 64.3
+Wind speed: 12.4
+Wind direction: 4
+Precipitation counter: 34567

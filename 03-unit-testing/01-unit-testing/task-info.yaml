@@ -1,0 +1,10 @@
+type: edu
+files:
+  - name: test/AuthorizationHandlerTest.java
+    visible: true
+    placeholders:
+      - offset: 162
+        length: 3745
+        placeholder_text: // TODO
+  - name: src/AuthorizationHandler.java
+    visible: false

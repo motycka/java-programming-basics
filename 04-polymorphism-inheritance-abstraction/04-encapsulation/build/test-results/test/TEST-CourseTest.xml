@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CourseTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-02-12T09:37:35" hostname="Monika-MacBook-Pro.local" time="0.017">
+  <properties/>
+  <testcase name="should set start date - today" classname="CourseTest" time="0.008"/>
+  <testcase name="should not set start date - yesterday" classname="CourseTest" time="0.001"/>
+  <testcase name="subject should be private" classname="CourseTest" time="0.001"/>
+  <testcase name="constructor should set subject and start date" classname="CourseTest" time="0.001"/>
+  <testcase name="constructor should not accept null subject" classname="CourseTest" time="0.0"/>
+  <testcase name="constructor should not accept empty subject" classname="CourseTest" time="0.001"/>
+  <testcase name="constructor should not accept start date in the past" classname="CourseTest" time="0.0"/>
+  <testcase name="start date should be private" classname="CourseTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

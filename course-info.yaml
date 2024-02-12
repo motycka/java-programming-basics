@@ -1,0 +1,20 @@
+type: marketplace
+title: Java Programming Basics
+language: English
+summary: "This is an introductory course designed as practical exercise tool for HarbourSpace\
+  \ University Programming in Java course. \n- This course is designed to guide students\
+  \ through Java programming basics using practical exercises.\n- Students will practice\n\
+  \  - Java syntax, data types, and operators\n  - Basic Object-Oriented Programming\
+  \ principles\n  - Unit testing\n  - Polymorphism, inheritance, and abstraction principles\n\
+  \  - Working with Java Collections"
+vendor:
+  name: Monika PROTIVOVÁ
+programming_language: Java
+content:
+  - 01-java-basics
+  - 02-java-oop
+  - 03-unit-testing
+  - 04-polymorphism-inheritance-abstraction
+  - 05-collections
+environment_settings:
+  jvm_language_level: JDK_17

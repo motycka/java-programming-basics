@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HomeworkTaskTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-02-12T09:37:39" hostname="Monika-MacBook-Pro.local" time="0.023">
+  <properties/>
+  <testcase name="should aggregate data by alphabet" classname="HomeworkTaskTests" time="0.023"/>
+  <system-out><![CDATA[A -> [Aileen Ochoa, Alvin Fisher, Aaron Sears, Arden Mccarthy, Aileen Ochoa, Aaron Sears, Alvin Fisher, Aaron Sears, Arden Mccarthy, Alvin Fisher, Aaron Sears, Arden Mccarthy]
+B -> []
+C -> [Caleb Bullock, Cassidy Donaldson, Cassidy Donaldson]
+D -> [Dora Skinner, Duncan Clark, Dana Moore, Dante Fitzpatrick, Duncan Clark, Dante Fitzpatrick, Dora Skinner, Dora Skinner, Dora Skinner, Duncan Clark, Dana Moore]
+E -> [Emerson Bentley, Emerson Bentley]
+F -> []
+G -> []
+H -> [Hasad Miles, Hasad Miles, Hasad Miles, Hasad Miles]
+I -> [Idona Hendrix, Isabelle Chan, Ishmael Clark, Iola Wallace, Ivor Olson, Idona Hendrix, Isabelle Chan, Ishmael Clark, Iola Wallace, Ivor Olson, Iola Wallace, Ivor Olson, Ivor Olson]
+J -> [Jacob Bean, Josephine Mcneil, Juliet Roberts, Jacob Bean, Josephine Mcneil, Jacob Bean, Josephine Mcneil, Juliet Roberts, Jacob Bean, Juliet Roberts]
+K -> [Keiko Cross, Keelie Nash, Keaton Melton, Kamal Lester, Keiko Cross, Keelie Nash, Kamal Lester, Keiko Cross, Keelie Nash, Keaton Melton, Keelie Nash, Keaton Melton, Kamal Lester]
+L -> [Lacy Mccormick, Lareina Adkins, Lareina Chambers, Lacy Mccormick, Lareina Chambers, Lareina Adkins, Lacy Mccormick, Lareina Adkins, Lareina Chambers]
+M -> [Merritt Weiss, Mechelle Morrison, Merritt Weiss, Mechelle Morrison, Merritt Weiss, Mechelle Morrison, Merritt Weiss, Mechelle Morrison]
+N -> []
+O -> [Odessa Leonard, Octavia Brewer, Odessa Leonard, Octavia Brewer, Odessa Leonard, Odessa Leonard]
+P -> []
+Q -> [Quentin Patrick, Quentin Patrick, Quentin Patrick, Quentin Patrick]
+R -> [Ross Fernandez, Raya Hayden, Raya Hayden, Ross Fernandez, Raya Hayden, Ross Fernandez, Raya Hayden]
+S -> [Shellie Cote, Stacey Murphy, Summer Puckett, Shellie Cote, Summer Puckett, Summer Puckett, Stacey Murphy, Summer Puckett, Shellie Cote]
+T -> [Trevor Phillips, Trevor Phillips]
+U -> [Uriel Grimes, Uriel Grimes, Uriel Grimes]
+V -> []
+W -> [Warren Richards, Warren Richards, Warren Richards, Warren Richards]
+X -> []
+Y -> []
+Z -> []
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

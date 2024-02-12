@@ -1,0 +1,2 @@
+Average wind speed: 4.8
+Average wind direction: 3

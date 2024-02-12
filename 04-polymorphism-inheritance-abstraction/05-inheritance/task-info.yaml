@@ -1,0 +1,26 @@
+type: edu
+files:
+  - name: src/Main.java
+    visible: true
+  - name: test/RectangleTest.java
+    visible: false
+  - name: src/Rectangle.java
+    visible: true
+    placeholders:
+      - offset: 24
+        length: 431
+        placeholder_text: "{ }"
+  - name: src/Square.java
+    visible: true
+    placeholders:
+      - offset: 20
+        length: 162
+        placeholder_text: "{ }"
+  - name: src/Cuboid.java
+    visible: true
+    placeholders:
+      - offset: 20
+        length: 439
+        placeholder_text: "{ }"
+  - name: test/SquareTest.java
+    visible: false

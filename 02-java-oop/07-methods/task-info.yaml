@@ -1,0 +1,26 @@
+type: edu
+files:
+  - name: test/SensorTest.java
+    visible: false
+  - name: src/com/harbourspace/model/Sensor.java
+    visible: true
+    placeholders:
+      - offset: 106
+        length: 41
+        placeholder_text: // you can define constant for CELSIUS
+      - offset: 152
+        length: 44
+        placeholder_text: // you can define constant for FAHRENHEIT
+      - offset: 243
+        length: 3
+        placeholder_text: ???
+      - offset: 264
+        length: 3
+        placeholder_text: ???
+      - offset: 331
+        length: 789
+        placeholder_text: // implement all the methods
+  - name: src/com/harbourspace/Main.java
+    visible: true
+  - name: src/com/harbourspace/model/Error.java
+    visible: true

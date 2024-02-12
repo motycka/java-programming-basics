@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AreaCalculatorTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-02-12T09:37:34" hostname="Monika-MacBook-Pro.local" time="0.018">
+  <properties/>
+  <testcase name="should calculate triangle area as double" classname="AreaCalculatorTest" time="0.012"/>
+  <testcase name="should calculate rectangle area as double" classname="AreaCalculatorTest" time="0.0"/>
+  <testcase name="should calculate rectangle area as int" classname="AreaCalculatorTest" time="0.0"/>
+  <testcase name="should calculate triangle area as int" classname="AreaCalculatorTest" time="0.0"/>
+  <testcase name="should calculate circle area as double" classname="AreaCalculatorTest" time="0.0"/>
+  <testcase name="should calculate circle area as int" classname="AreaCalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

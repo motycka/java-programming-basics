@@ -1,0 +1,16 @@
+type: edu
+files:
+  - name: test/MessageQueueServiceTest.java
+    visible: false
+  - name: src/MessageQueue.java
+    visible: false
+  - name: src/MessageQueueRuntimeException.java
+    visible: false
+  - name: src/MessageQueueConnectionException.java
+    visible: false
+  - name: src/MessageQueuePollingService.java
+    visible: true
+    placeholders:
+      - offset: 242
+        length: 775
+        placeholder_text: // your code here

@@ -1,0 +1,14 @@
+type: output
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 412
+        length: 903
+        placeholder_text: // print the text
+  - name: test/output.txt
+    visible: false
+  - name: test/input.txt
+    visible: false
+  - name: src/Data.java
+    visible: false
