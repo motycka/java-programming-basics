@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="CollectionsTaskTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-02-12T09:37:37" hostname="Monika-MacBook-Pro.local" time="0.014">
-  <properties/>
-  <testcase name="should get temperatures on days" classname="CollectionsTaskTest" time="0.013"/>
-  <testcase name="should get temperatures between values" classname="CollectionsTaskTest" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

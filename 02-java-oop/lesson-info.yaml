@@ -1,7 +1,5 @@
 content:
-  - Classes
-  - Methods
-  - Enums
+  - Lesson 02
   - 01-class
   - 02-class-instance
   - 03-getters

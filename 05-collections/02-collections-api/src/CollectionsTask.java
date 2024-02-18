@@ -3,11 +3,6 @@ import java.util.stream.Collectors;
 
 public class CollectionsTask {
 
-    public static Set<String> letters = Set.of(
-            "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m",
-            "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"
-    );
-
     public static List<String> getNotNull(List<String> data) {
         return data
                 .stream()
@@ -50,33 +45,5 @@ public class CollectionsTask {
                 Collectors.groupingBy(name -> name, Collectors.summingInt(name -> 1))
         );
     }
-
-
-
-//    public static TreeMap<String, Integer> sortByValue(Map<String, Integer> data) {
-//
-//        Stream<Map.Entry<String, Integer>> sortedSet = data.entrySet().stream().sorted(
-//                Map.Entry.comparingByValue(Comparator.reverseOrder())
-//        );
-//
-//        TreeMap<String, Integer> treeMap = new TreeMap<>();
-//
-//        sortedSet.forEach(e -> treeMap.put(e.getKey(), e.getValue()));
-//
-////        TreeMap<String, Integer> treeMap = sortedSet.collect(
-////                Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue, (oldValue, newValue) -> newValue, TreeMap::new)
-////        );
-//
-//        return treeMap;
-//
-////        TreeMap<String, Integer> treeMapSorted = new TreeMap<>();
-////
-////        TreeMap<String, Integer> treeMap = map.entrySet().stream().collect(
-////                Collectors.toMap(
-////                        Map.Entry::getKey,
-////                        Map.Entry::getValue,
-////                        (oldValue, newValue) -> newValue, TreeMap::new)
-////        );
-//    }
 
 }

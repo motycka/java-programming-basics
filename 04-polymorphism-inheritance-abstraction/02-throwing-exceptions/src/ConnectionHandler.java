@@ -1,22 +1,16 @@
 public class ConnectionHandler {
 
+    private boolean connected = false;
+
     public void connect() {
-        // put your code here
+        connected = true;
     }
 
-    public void ping() {
-        // put your code here
+    public void ping() throws ConnectionException {
+        if (!connected) {
+            throw new ConnectionException("Not connected");
+        }
     }
 
 }
-class ConnectionException extends Throwable {
-    public ConnectionException(String message) {
-        super(message);
-    }
-}
 
-class NetworkException extends RuntimeException {
-    public NetworkException(String message) {
-        super(message);
-    }
-}

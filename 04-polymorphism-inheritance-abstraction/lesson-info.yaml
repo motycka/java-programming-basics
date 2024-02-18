@@ -1,9 +1,5 @@
 content:
-  - Exceptions
-  - Polymorphism
-  - Encapsulation
-  - Inheritance
-  - Abstraction
+  - Lesson 04
   - 01-handling-exceptions
   - 02-throwing-exceptions
   - 03-polymorphism

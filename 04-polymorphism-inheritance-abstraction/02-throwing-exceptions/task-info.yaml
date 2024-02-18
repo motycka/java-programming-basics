@@ -2,5 +2,18 @@ type: edu
 files:
   - name: src/ConnectionHandler.java
     visible: true
+    placeholders:
+      - offset: 158
+        length: 130
+        placeholder_text: |-
+          {
+          // your code here
+          }
   - name: test/ConnectionHandlerTest.java
     visible: false
+  - name: src/ConnectionException.java
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 133
+        placeholder_text: // TODO
