@@ -2,7 +2,7 @@
 
 Take the MeteoStation class from exercise 4 and make the following changes to it.
 
-1. Create a nested class inside **MeteoStation**, call it **Sensor**
+1. Create a nested class inside **MeteoStation**, call it **VersionInfo**
 
 2. Define two fields for in the **VersionInfo** class
    * `String firmware`
