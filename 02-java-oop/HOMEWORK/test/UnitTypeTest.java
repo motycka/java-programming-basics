@@ -14,7 +14,7 @@ public class UnitTypeTest {
     @Test
     @DisplayName("should have FAHRENHEIT value with F symbol")
     public void testFahrenheit() {
-        Assertions.assertEquals("C", UnitType.FAHRENHEIT.getSymbol());
+        Assertions.assertEquals("F", UnitType.FAHRENHEIT.getSymbol());
     }
 
 }
